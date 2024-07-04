@@ -19,7 +19,7 @@ Applied best practices in web design to ensure a seamless and intuitive navigati
 
 Contributed to the overall aesthetics and functionality of the website through the implementation of the interactive navigation menu.
 
-PROGRAMMING LANGUAGE: HTML, CSS, JAVACRIPT
+PROGRAMMING LANGUAGE: HTML, CSS.
 
 SCREENSHOT OF WEBSITE
 ![ss1](https://github.com/tempots/PRODIGY_WD_01/assets/174440445/0f2b99cf-b9f0-4b83-8631-7a895215b34b)
