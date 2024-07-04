@@ -2,7 +2,7 @@ TASK 1 : RESPONSIVE LANDING PAGE
 
 PAGE NAME : AutoCare
 
-WEBSITE: tsautocare.netlify.app
+WEBSITE: https://tsautocare.netlify.app/
 
 THEME : Car Washing Website
 
