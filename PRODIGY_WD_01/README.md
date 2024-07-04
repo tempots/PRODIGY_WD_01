@@ -2,7 +2,7 @@ TASK 1 : RESPONSIVE LANDING PAGE
 
 PAGE NAME : AutoCare
 
-WEBSITE: http://127.0.0.1:3000/PRODIGY_WD_01/index.html
+WEBSITE: tsautocare.netlify.app
 
 THEME : Car Washing Website
 
